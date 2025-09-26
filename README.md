@@ -15,23 +15,27 @@ Files Included
 
 Getting Started
 
-   Prerequisites
-	'Python 3.x'
-	The following Python libraries:
-		`numpy`
-		`matplotlib`
+### Prerequisites
+* Python 3.x
+* The following Python libraries:
+    * `numpy`
+    * `matplotlib`
 
 You can install these dependencies using `pip`:
 
-```bash
-pip install numpy matplotlib''
 
-Usage
+* pip install numpy matplotlib
+
+Usage:
+
 To use the ODE solver, you can run the ODE SOLVER.py script from your terminal:
+
 	python "ODE SOLVER.py"
 
-Author
+Author:
+
 	Yamikani Williams
 
-License
+License:
+
 	This project is licensed under the MIT License - see the LICENSE.md file for details.
