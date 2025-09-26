@@ -15,15 +15,15 @@ Files Included
 
 Getting Started
 
-   Prerequisites
-	'Python3.x'
-	The following Python libraries:
-		`numpy`
-		`matplotlib`
+### Prerequisites
+* Python 3.x
+* The following Python libraries:
+    * `numpy`
+    * `matplotlib`
 
 You can install these dependencies using `pip`:
 
-
+```bash
 pip install numpy matplotlib
 
 Usage
