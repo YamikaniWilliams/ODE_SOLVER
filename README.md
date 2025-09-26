@@ -24,7 +24,7 @@ Getting Started
 You can install these dependencies using `pip`:
 
 
-*'pip install numpy matplotlib'
+* pip install numpy matplotlib
 
 Usage:
 
