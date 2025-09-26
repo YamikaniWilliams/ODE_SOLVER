@@ -23,10 +23,10 @@ Getting Started
 
 You can install these dependencies using `pip`:
 
-```bash
-pip install numpy matplotlib
 
-Usage
+*'pip install numpy matplotlib'
+
+Usage:
 
 To use the ODE solver, you can run the ODE SOLVER.py script from your terminal:
 
