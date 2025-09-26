@@ -16,7 +16,7 @@ Files Included
 Getting Started
 
    Prerequisites
-	Python 3.x
+	'Python 3.x'
 	The following Python libraries:
 		`numpy`
 		`matplotlib`
@@ -24,13 +24,11 @@ Getting Started
 You can install these dependencies using `pip`:
 
 ```bash
-pip install numpy matplotlib'''
+pip install numpy matplotlib''
 
 Usage
-	To use the ODE solver, you can run the ODE SOLVER.py script from your terminal:
-
-Bash
-python "ODE SOLVER.py"
+To use the ODE solver, you can run the ODE SOLVER.py script from your terminal:
+	python "ODE SOLVER.py"
 
 Author
 	Yamikani Williams
