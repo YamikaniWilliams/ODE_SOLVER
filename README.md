@@ -25,3 +25,15 @@ You can install these dependencies using `pip`:
 
 ```bash
 pip install numpy matplotlib
+
+Usage
+	To use the ODE solver, you can run the ODE SOLVER.py script from your terminal:
+
+'''bash
+python "ODE SOLVER.py"
+
+Author
+	Yamikani Williams
+
+License
+	This project is licensed under the MIT License - see the LICENSE.md file for details.
