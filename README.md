@@ -28,6 +28,7 @@ pip install numpy matplotlib
 Usage
 
 To use the ODE solver, you can run the ODE SOLVER.py script from your terminal:
+
 	python "ODE SOLVER.py"
 
 Author:
